@@ -1,0 +1,8 @@
+#布尔达
+---
+ans = input("What flavor do you want [vanilla]: ")
+if ans != "":
+  flavor = ans
+else:
+  flavor = "vanilla"
+  ---
